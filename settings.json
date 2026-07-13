@@ -7,11 +7,11 @@
   },
   "server": {
     "ip": "Ltariq4321.aternos.me"
-Port: 64259
+Port: "64259"
 
 Okay
 
-",
+
     "port": 27586,
     "version": "",
     "try-creative": false
